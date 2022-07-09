@@ -1,0 +1,14 @@
+("This Line Dose Not do Anything");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Update/banned.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Update/builds.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Update/dormslideshow.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Update/hotrooms.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Update/motd.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Update/rcslideshow.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Download/avatar.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Download/avataritems.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Download/avataritems2.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Download/banned.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Download/baserooms.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Download/changelog.txt");
+("https://raw.githubusercontent.com/JacobRR123/NetRec/master/Download/configv2.txt");
